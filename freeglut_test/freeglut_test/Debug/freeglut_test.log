@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\research\code\graphics\freeglut_test\freeglut_test\main.cpp(402): warning C4245: 'initializing': conversion from 'int' to 'GLuint', signed/unsigned mismatch
+d:\research\code\graphics\freeglut_test\freeglut_test\main.cpp(402): warning C4189: 'sizep': local variable is initialized but not referenced
+c:\program files (x86)\microsoft sdks\windows\v10.0a\include\gl\freeglut_std.h(627): warning C4505: 'glutCreateMenu_ATEXIT_HACK': unreferenced local function has been removed
+  freeglut_test.vcxproj -> D:\Research\Code\Graphics\freeglut_test\Debug\freeglut_test.exe
+  freeglut_test.vcxproj -> D:\Research\Code\Graphics\freeglut_test\Debug\freeglut_test.pdb (Full PDB)
